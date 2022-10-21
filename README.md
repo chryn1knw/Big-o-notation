@@ -52,20 +52,20 @@ Polynomial/Quadratic adalah ketika runtime dari fungsi kita adalah sebesar n2, d
 ```
 for (int i = 1; i <= 2; i++) {
     for(int j = 1; j <= 4; j++) {
-        System.out.println(i + " dan " + j);
+        System.out.println(i + " kuadrat " + j);
     }
 }
 ```
 ```
 Output :
-1 dan 1
-1 dan 2
-1 dan 3
-1 dan 4
-2 dan 1
-2 dan 2
-2 dan 3
-2 dan 4
+1 kuadrat 1
+1 kuadrat 2
+1 kuadrat 3
+1 kuadrat 4
+2 kuadrat 1
+2 kuadrat 2
+2 kuadrat 3
+2 kuadrat 4
 ```
 5.Exponential - O(2^n)
 ---
